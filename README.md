@@ -172,7 +172,7 @@ Thank you for your support!
 
 [![Static Badge](https://img.shields.io/badge/Telegram-white?logo=Telegram&style=for-the-badge&color=24A1DE&logoColor=white)](https://t.me/KandyYe)
 
-![WeChat QR Code](.\docs\images\公众号二维码.png)
+![WeChat QR Code](docs/images/公众号二维码.png)
 
 
 
