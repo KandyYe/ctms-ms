@@ -155,6 +155,43 @@ graph TD
 
 
 
+# Futures
+
+1. Display real-time K-line;
+   - [x] OKX
+   - [x] Binance
+   - [x] Bybit
+2. Real-time trading, position information, pending orders and account assets display;
+   - [x] OKX
+   - [x] Binance
+   - [ ] Bybit
+3. Featured indicator display;
+4. Show Micro Strategy BTC position;
+5. Show Trump WLFI fund position;
+6. Display real-time funding rate;
+7. Visual tracking of account assets.
+
+
+
+# Page display
+
+| ![Special Index](docs/images/1.jpg) | ![Account](docs/images/2.jpg)      |
+| ----------------------------------- | ---------------------------------- |
+| ![Strategy](docs/images/3.jpg)      | ![WLFI](docs/images/4.jpg)         |
+| ![Asset list](docs/images/7.jpg)    | ![Asset detail](docs/images/5.jpg) |
+| ![Asset list](docs/images/6.jpg)    | ![tasks](docs/images/12.jpg)       |
+| ![Recode](docs/images/13.jpg)       | ![Position](docs/images/8.jpg)     |
+| ![Position](docs/images/9.jpg)      | ![Orders](docs/images/10.jpg)      |
+| ![Balance](docs/images/11.jpg)      | ![](docs/images/14.jpg)            |
+
+
+
+# Video
+
+[Youtube video](https://www.youtube.com/watch?v=jjR2XFd25Wc)
+
+
+
 # 🍩 Donate
 
 If you find CryptoArbitrage is useful and would like to support its development, consider making a donation. Your contributions will help cover the costs of maintaining and improving this project.
