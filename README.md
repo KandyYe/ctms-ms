@@ -161,9 +161,13 @@ graph TD
    - [x] OKX
    - [x] Binance
    - [x] Bybit
+   - [x] Bitget
+   - [x] Gateio
 2. Real-time trading, position information, pending orders and account assets display;
    - [x] OKX
    - [x] Binance
+   - [x] Bitget
+   - [ ] Gateio
    - [ ] Bybit
 3. Featured indicator display;
 4. Show Micro Strategy BTC position;
